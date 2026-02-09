@@ -1,3 +1,5 @@
+🔐 Password Generator (Django Web Application) A secure and customizable web-based tool for generating strong, random passwords.
+         
          Customizable Parameters: Users can specify password length (typically 8-64 characters)
          
          Character Set Selection: Options to include:
